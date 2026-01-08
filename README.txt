@@ -1,7 +1,4 @@
-to open the game, just double click the .exe file "finalproject".
+This was my final project in my 11th grade computer programming class. It was written in Visual Basic, although I have since lost the source code.
+It's a little hangman game with animations I drew myself and a keyboard built into the frame. I only ever compiled and published it because someone online wanted to try my game.
 
-it's called that because it was my eleventh grade programming final.
-i only vaguely understand what all the other stuff does. (i haven't touched
-visual studio since i finished the class.)
-
-- cyberspacebear
+All the clues I wrote were horribly pretentious, and I still feel fondly for it.
